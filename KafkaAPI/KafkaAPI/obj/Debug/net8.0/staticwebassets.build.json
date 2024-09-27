@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GoXK/mzVpx3jKSBDC6fSzhVzpRwCNSkJP7tlmHClC18=",
+  "Source": "KafkaAPI",
+  "BasePath": "_content/KafkaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

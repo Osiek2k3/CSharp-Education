@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F814AF40-C9EA-4466-B657-F69DD2B3EE0C}|Consumer.Service\\Consumer.Service.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.service\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F814AF40-C9EA-4466-B657-F69DD2B3EE0C}|Consumer.Service\\Consumer.Service.csproj|solutionrelative:consumer.service\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|solutionrelative:consumer.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|solutionrelative:consumer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.database\\entities\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|solutionrelative:consumer.database\\entities\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.database\\employeereportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|solutionrelative:consumer.database\\employeereportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F814AF40-C9EA-4466-B657-F69DD2B3EE0C}|Consumer.Service\\Consumer.Service.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F814AF40-C9EA-4466-B657-F69DD2B3EE0C}|Consumer.Service\\Consumer.Service.csproj|solutionrelative:consumer.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.api\\consumer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|solutionrelative:consumer.api\\consumer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{320DBB82-142E-4C37-9834-96A75A04BB7E}|Consumer.Api\\Consumer.Api.csproj|solutionrelative:consumer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.database\\consumer.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|solutionrelative:consumer.database\\consumer.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F814AF40-C9EA-4466-B657-F69DD2B3EE0C}|Consumer.Service\\Consumer.Service.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F814AF40-C9EA-4466-B657-F69DD2B3EE0C}|Consumer.Service\\Consumer.Service.csproj|solutionrelative:consumer.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B22FA07-F0FC-41B6-8B1E-DBE15E2EDAAC}|Consumer.Shared\\Consumer.Shared.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B22FA07-F0FC-41B6-8B1E-DBE15E2EDAAC}|Consumer.Shared\\Consumer.Shared.csproj|solutionrelative:consumer.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\kafka.Consumer.Service\\Consumer.Database\\Migrations\\20240828125259_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafka.consumer.service\\consumer.database\\migrations\\20240828133419_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C6B5B8-D361-4553-9BDF-ED8464C67341}|Consumer.Database\\Consumer.Database.csproj|solutionrelative:consumer.database\\migrations\\20240828133419_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeReportDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\EmployeeReportDbContext.cs",
+              "RelativeDocumentMoniker": "Consumer.Database\\EmployeeReportDbContext.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\EmployeeReportDbContext.cs",
+              "RelativeToolTip": "Consumer.Database\\EmployeeReportDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:49:43.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Service\\Worker.cs",
+              "RelativeDocumentMoniker": "Consumer.Service\\Worker.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Service\\Worker.cs",
+              "RelativeToolTip": "Consumer.Service\\Worker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:32:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\Program.cs",
+              "RelativeToolTip": "Consumer.Api\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:14:53.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer.Service\\Program.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Service\\Program.cs",
+              "RelativeToolTip": "Consumer.Service\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:46:39.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeReport.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\Entities\\EmployeeReport.cs",
+              "RelativeDocumentMoniker": "Consumer.Database\\Entities\\EmployeeReport.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\Entities\\EmployeeReport.cs",
+              "RelativeToolTip": "Consumer.Database\\Entities\\EmployeeReport.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:09:10.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Consumer.Api\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Consumer.Api\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:13:34.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Consumer.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\Consumer.Api.csproj",
+              "RelativeDocumentMoniker": "Consumer.Api\\Consumer.Api.csproj",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\Consumer.Api.csproj",
+              "RelativeToolTip": "Consumer.Api\\Consumer.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T13:14:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Shared\\Employee.cs",
+              "RelativeDocumentMoniker": "Consumer.Shared\\Employee.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Shared\\Employee.cs",
+              "RelativeToolTip": "Consumer.Shared\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:44:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consumer.Database.csproj",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\Consumer.Database.csproj",
+              "RelativeDocumentMoniker": "Consumer.Database\\Consumer.Database.csproj",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\Consumer.Database.csproj",
+              "RelativeToolTip": "Consumer.Database\\Consumer.Database.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T12:08:12.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Consumer.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Api\\appsettings.json",
+              "RelativeToolTip": "Consumer.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T13:15:46.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Consumer.Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Service\\appsettings.json",
+              "RelativeToolTip": "Consumer.Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T12:40:59.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240828125259_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\kafka.Consumer.Service\\Consumer.Database\\Migrations\\20240828125259_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\kafka.Consumer.Service\\Consumer.Database\\Migrations\\20240828125259_Initial.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\kafka.Consumer.Service\\Consumer.Database\\Migrations\\20240828125259_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\kafka.Consumer.Service\\Consumer.Database\\Migrations\\20240828125259_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:52:59.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240828133419_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\Migrations\\20240828133419_Initial.cs",
+              "RelativeDocumentMoniker": "Consumer.Database\\Migrations\\20240828133419_Initial.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\kafka.Consumer.Service\\Consumer.Database\\Migrations\\20240828133419_Initial.cs",
+              "RelativeToolTip": "Consumer.Database\\Migrations\\20240828133419_Initial.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:34:19.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

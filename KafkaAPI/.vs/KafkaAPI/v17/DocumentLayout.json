@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafkaapi\\kafkaapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|solutionrelative:kafkaapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafkaapi\\kafkaapi\\database\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|solutionrelative:kafkaapi\\database\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafkaapi\\kafkaapi\\database\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|solutionrelative:kafkaapi\\database\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafkaapi\\kafkaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|solutionrelative:kafkaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|c:\\users\\abc\\desktop\\c--main\\project\\kafkaapi\\kafkaapi\\kafkaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E846D40-8414-474A-99AC-2DCD90F5F3F7}|KafkaAPI\\KafkaAPI.csproj|solutionrelative:kafkaapi\\kafkaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "KafkaAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "KafkaAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:32:34.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Database\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "KafkaAPI\\Database\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Database\\Models\\Employee.cs",
+              "RelativeToolTip": "KafkaAPI\\Database\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:31:32.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Database\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "KafkaAPI\\Database\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Database\\EmployeeDbContext.cs",
+              "RelativeToolTip": "KafkaAPI\\Database\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:28:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\Program.cs",
+              "RelativeToolTip": "KafkaAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:28:24.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\KafkaAPI.csproj",
+              "RelativeDocumentMoniker": "KafkaAPI\\KafkaAPI.csproj",
+              "ToolTip": "C:\\Users\\abc\\Desktop\\C--main\\Project\\KafkaAPI\\KafkaAPI\\KafkaAPI.csproj",
+              "RelativeToolTip": "KafkaAPI\\KafkaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T08:27:00.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

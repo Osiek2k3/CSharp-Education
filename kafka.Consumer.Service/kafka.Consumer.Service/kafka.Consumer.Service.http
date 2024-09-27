@@ -1,0 +1,6 @@
+@kafka.Consumer.Service_HostAddress = http://localhost:5064
+
+GET {{kafka.Consumer.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
