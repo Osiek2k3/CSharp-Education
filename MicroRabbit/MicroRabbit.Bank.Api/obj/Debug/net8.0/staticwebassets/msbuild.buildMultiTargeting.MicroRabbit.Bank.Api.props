@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MicroRabbit.Bank.Api.props" />
+</Project>

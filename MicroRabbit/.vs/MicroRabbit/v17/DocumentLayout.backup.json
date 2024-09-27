@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF523D-D193-49EF-AD36-1BFD1DAFC86A}|MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.infra.bus\\rabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFF523D-D193-49EF-AD36-1BFD1DAFC86A}|MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj|solutionrelative:microrabbit.infra.bus\\rabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9A1B0-69DB-4E5D-8183-3989E8F53A0D}|MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D9A1B0-69DB-4E5D-8183-3989E8F53A0D}|MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj|solutionrelative:microrabbit.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.domain\\models\\transferlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|solutionrelative:microrabbit.transfer.domain\\models\\transferlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.domain\\interfaces\\itransferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|solutionrelative:microrabbit.transfer.domain\\interfaces\\itransferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.domain\\events\\transfercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|solutionrelative:microrabbit.transfer.domain\\events\\transfercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.domain\\eventhandlers\\transfereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0801D245-DFAB-4089-8622-CB40D917E176}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|solutionrelative:microrabbit.transfer.domain\\eventhandlers\\transfereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D56F36-FBAC-4B23-8BA8-A944DDFD1FBA}|MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.data\\repository\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D56F36-FBAC-4B23-8BA8-A944DDFD1FBA}|MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj|solutionrelative:microrabbit.transfer.data\\repository\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D56F36-FBAC-4B23-8BA8-A944DDFD1FBA}|MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.data\\context\\transferdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D56F36-FBAC-4B23-8BA8-A944DDFD1FBA}|MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj|solutionrelative:microrabbit.transfer.data\\context\\transferdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D56F36-FBAC-4B23-8BA8-A944DDFD1FBA}|MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.data\\microrabbit.transfer.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15D56F36-FBAC-4B23-8BA8-A944DDFD1FBA}|MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj|solutionrelative:microrabbit.transfer.data\\microrabbit.transfer.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|solutionrelative:microrabbit.transfer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.api\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|solutionrelative:microrabbit.transfer.api\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C37440-3941-4AF6-B1FE-3312300F4B08}|MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.application\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C37440-3941-4AF6-B1FE-3312300F4B08}|MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj|solutionrelative:microrabbit.transfer.application\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C37440-3941-4AF6-B1FE-3312300F4B08}|MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.application\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C37440-3941-4AF6-B1FE-3312300F4B08}|MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj|solutionrelative:microrabbit.transfer.application\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.bank.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|solutionrelative:microrabbit.bank.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.bank.api\\controllers\\bankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|solutionrelative:microrabbit.bank.api\\controllers\\bankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.bank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|solutionrelative:microrabbit.bank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.domain.core\\events\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|solutionrelative:microrabbit.domain.core\\events\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.domain.core\\events\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|solutionrelative:microrabbit.domain.core\\events\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.domain.core\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|solutionrelative:microrabbit.domain.core\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.domain.core\\bus\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|solutionrelative:microrabbit.domain.core\\bus\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.domain.core\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFBECDB-6132-4BB5-B4E0-79EBB0551F99}|MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj|solutionrelative:microrabbit.domain.core\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\microrabbit.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\microrabbit.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|solutionrelative:microrabbit.transfer.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.bank.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72821882-5BC7-48A1-84DC-CC5C5196B240}|MicroRabbit.Bank.Api\\MicroRabbit.Bank.Api.csproj|solutionrelative:microrabbit.bank.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\services\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\services\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\models\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\models\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\models\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\models\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.transfer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4167414B-7ADF-4974-A537-56F25DDEAE00}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|solutionrelative:microrabbit.transfer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F65B23E4-F5F1-474D-8AEB-60D7C6160579}|MicroRabbit.MVC\\MicroRabbit.MVC.csproj|solutionrelative:microrabbit.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.banking.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|solutionrelative:microrabbit.banking.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.banking.domain\\commands\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|solutionrelative:microrabbit.banking.domain\\commands\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.banking.domain\\commands\\createtransfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|solutionrelative:microrabbit.banking.domain\\commands\\createtransfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.banking.domain\\commandhandlers\\transfercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|solutionrelative:microrabbit.banking.domain\\commandhandlers\\transfercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.banking.domain\\commandhandlers\\transfercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D965DB7F-DFA4-4970-8228-1723FD9D6823}|MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj|solutionrelative:microrabbit.banking.domain\\commandhandlers\\transfercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D9A1B0-69DB-4E5D-8183-3989E8F53A0D}|MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\project\\rabbitmq\\microrabbit\\microrabbit.infra.ioc\\microrabbit.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21D9A1B0-69DB-4E5D-8183-3989E8F53A0D}|MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj|solutionrelative:microrabbit.infra.ioc\\microrabbit.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Infra.IoC\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Infra.IoC\\DependencyContainer.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Infra.IoC\\DependencyContainer.cs",
+              "RelativeToolTip": "MicroRabbit.Infra.IoC\\DependencyContainer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:33:50.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransferCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\Events\\TransferCreatedEvent.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Domain\\Events\\TransferCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\Events\\TransferCreatedEvent.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Domain\\Events\\TransferCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:26:06.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransferDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Data\\Context\\TransferDbContext.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Data\\Context\\TransferDbContext.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Data\\Context\\TransferDbContext.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Data\\Context\\TransferDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:25:50.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MicroRabbit.Transfer.Data",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+              "RelativeToolTip": "MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T07:25:45.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQBus.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "RelativeToolTip": "MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:23:25.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferLog.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\Models\\TransferLog.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Domain\\Models\\TransferLog.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\Models\\TransferLog.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Domain\\Models\\TransferLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:26:12.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Application\\Services\\TransferService.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Application\\Services\\TransferService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Application\\Services\\TransferService.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Application\\Services\\TransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:22:50.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Bank.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Startup.cs",
+              "RelativeToolTip": "MicroRabbit.Bank.Api\\Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:19:43.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Data\\Repository\\TransferRepository.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Data\\Repository\\TransferRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Data\\Repository\\TransferRepository.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Data\\Repository\\TransferRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:44:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\Interfaces\\ITransferRepository.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Domain\\Interfaces\\ITransferRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\Interfaces\\ITransferRepository.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Domain\\Interfaces\\ITransferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:51:14.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BankingController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Controllers\\BankingController.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Bank.Api\\Controllers\\BankingController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Controllers\\BankingController.cs",
+              "RelativeToolTip": "MicroRabbit.Bank.Api\\Controllers\\BankingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:04:36.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Events\\Message.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Domain.Core\\Events\\Message.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Events\\Message.cs",
+              "RelativeToolTip": "MicroRabbit.Domain.Core\\Events\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:50:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:37:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Events\\Event.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Domain.Core\\Events\\Event.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Events\\Event.cs",
+              "RelativeToolTip": "MicroRabbit.Domain.Core\\Events\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:50:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Commands\\Command.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Domain.Core\\Commands\\Command.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Commands\\Command.cs",
+              "RelativeToolTip": "MicroRabbit.Domain.Core\\Commands\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:50:29.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Bus\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Domain.Core\\Bus\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Bus\\IEventHandler.cs",
+              "RelativeToolTip": "MicroRabbit.Domain.Core\\Bus\\IEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:46:36.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransferController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Controllers\\TransferController.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Api\\Controllers\\TransferController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Controllers\\TransferController.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Api\\Controllers\\TransferController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:49:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Program.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:53:21.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Bus\\IEventBus.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Domain.Core\\Bus\\IEventBus.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Domain.Core\\Bus\\IEventBus.cs",
+              "RelativeToolTip": "MicroRabbit.Domain.Core\\Bus\\IEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:50:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransferService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Application\\Interfaces\\ITransferService.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Application\\Interfaces\\ITransferService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Application\\Interfaces\\ITransferService.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Application\\Interfaces\\ITransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:44:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Startup.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Api\\Startup.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:53:21.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Program.cs",
+              "RelativeToolTip": "MicroRabbit.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:00:06.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Bank.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Program.cs",
+              "RelativeToolTip": "MicroRabbit.Bank.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:54:55.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TransferViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Models\\TransferViewModel.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Models\\TransferViewModel.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Models\\TransferViewModel.cs",
+              "RelativeToolTip": "MicroRabbit.MVC\\Models\\TransferViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:01:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransferDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Models\\DTO\\TransferDto.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Models\\DTO\\TransferDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Models\\DTO\\TransferDto.cs",
+              "RelativeToolTip": "MicroRabbit.MVC\\Models\\DTO\\TransferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:04:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MicroRabbit.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\MicroRabbit.MVC.csproj",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\MicroRabbit.MVC.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\MicroRabbit.MVC.csproj",
+              "RelativeToolTip": "MicroRabbit.MVC\\MicroRabbit.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T07:06:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITransferService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Services\\ITransferService.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Services\\ITransferService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Services\\ITransferService.cs",
+              "RelativeToolTip": "MicroRabbit.MVC\\Services\\ITransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:07:05.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Services\\TransferService.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Services\\TransferService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Services\\TransferService.cs",
+              "RelativeToolTip": "MicroRabbit.MVC\\Services\\TransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:08:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Startup.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Startup.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Startup.cs",
+              "RelativeToolTip": "MicroRabbit.MVC\\Startup.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:18:43.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MicroRabbit.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:21:33.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MicroRabbit.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T07:25:09.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Transfer.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroRabbit.Transfer.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T06:58:41.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroRabbit.Bank.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Bank.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroRabbit.Bank.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T06:58:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroRabbit.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroRabbit.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T06:58:23.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransferCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCommandHandler.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCommandHandler.cs",
+              "RelativeToolTip": "MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:51:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TransferCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\Commands\\TransferCommand.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Banking.Domain\\Commands\\TransferCommand.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\Commands\\TransferCommand.cs",
+              "RelativeToolTip": "MicroRabbit.Banking.Domain\\Commands\\TransferCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:51:56.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Banking.Domain\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "MicroRabbit.Banking.Domain\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:52:00.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TransferCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCreatedEvent.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCreatedEvent.cs",
+              "RelativeToolTip": "MicroRabbit.Banking.Domain\\CommandHandlers\\TransferCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:51:51.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateTransferCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\Commands\\CreateTransferCommand.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Banking.Domain\\Commands\\CreateTransferCommand.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Banking.Domain\\Commands\\CreateTransferCommand.cs",
+              "RelativeToolTip": "MicroRabbit.Banking.Domain\\Commands\\CreateTransferCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:51:55.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MicroRabbit.Infra.IoC.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+              "RelativeDocumentMoniker": "MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\Project\\rabbitmq\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+              "RelativeToolTip": "MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T13:33:48.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
