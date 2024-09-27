@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9621955D-BB75-4DDE-8648-704D7B2EE753}|CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.infra.bus\\inmemorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9621955D-BB75-4DDE-8648-704D7B2EE753}|CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj|solutionrelative:cleanarch.infra.bus\\inmemorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9411801-C719-4B0B-8589-8D6B49BA6A01}|CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain.core\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9411801-C719-4B0B-8589-8D6B49BA6A01}|CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj|solutionrelative:cleanarch.domain.core\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9621955D-BB75-4DDE-8648-704D7B2EE753}|CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.infra.bus\\cleanarch.infra.bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9621955D-BB75-4DDE-8648-704D7B2EE753}|CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj|solutionrelative:cleanarch.infra.bus\\cleanarch.infra.bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain\\commandhandlers\\coursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\commandhandlers\\coursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain\\commands\\coursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\commands\\coursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain\\commands\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\commands\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449388B8-6421-4B5D-9DB4-58E48214712E}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9411801-C719-4B0B-8589-8D6B49BA6A01}|CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain.core\\events\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9411801-C719-4B0B-8589-8D6B49BA6A01}|CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj|solutionrelative:cleanarch.domain.core\\events\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9411801-C719-4B0B-8589-8D6B49BA6A01}|CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture\\cleanarch\\cleanarch.domain.core\\bus\\imediatorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9411801-C719-4B0B-8589-8D6B49BA6A01}|CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj|solutionrelative:cleanarch.domain.core\\bus\\imediatorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryBus.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\InMemoryBus.cs",
+              "RelativeDocumentMoniker": "CleanArch.Infra.Bus\\InMemoryBus.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\InMemoryBus.cs",
+              "RelativeToolTip": "CleanArch.Infra.Bus\\InMemoryBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:33:20.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CleanArch.Infra.Bus",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
+              "RelativeToolTip": "CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T08:33:16.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CommandHandlers\\CourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\CommandHandlers\\CourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CommandHandlers\\CourseCommandHandler.cs",
+              "RelativeToolTip": "CleanArch.Domain\\CommandHandlers\\CourseCommandHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:39.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Commands\\CreateCourseCommand.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Commands\\CreateCourseCommand.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Commands\\CreateCourseCommand.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Commands\\CreateCourseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:27.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\Commands\\Command.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain.Core\\Commands\\Command.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\Commands\\Command.cs",
+              "RelativeToolTip": "CleanArch.Domain.Core\\Commands\\Command.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Commands\\CourseCommand.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Commands\\CourseCommand.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Commands\\CourseCommand.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Commands\\CourseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:34.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\Models\\Course.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Models\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:17.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\Events\\Message.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain.Core\\Events\\Message.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\Events\\Message.cs",
+              "RelativeToolTip": "CleanArch.Domain.Core\\Events\\Message.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMediatorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\Bus\\IMediatorHandler.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain.Core\\Bus\\IMediatorHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\Bus\\IMediatorHandler.cs",
+              "RelativeToolTip": "CleanArch.Domain.Core\\Bus\\IMediatorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:02.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
