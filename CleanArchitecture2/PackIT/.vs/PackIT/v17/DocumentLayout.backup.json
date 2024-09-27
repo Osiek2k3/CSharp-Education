@@ -1,0 +1,1410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\options\\postgresoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\options\\postgresoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\addpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\addpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\services\\postgrespackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\services\\postgrespackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\services\\dumbweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\services\\dumbweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\config\\writeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\config\\writeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\contexts\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\contexts\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|solutionrelative:packit.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|solutionrelative:packit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|solutionrelative:packit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\logging\\loggingcommandhandlerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\logging\\loggingcommandhandlerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\repositories\\ipackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\repositories\\ipackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\policies\\universal\\basicpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\policies\\universal\\basicpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\policies\\temperature\\hightemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\policies\\temperature\\hightemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\events\\packingitempacked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\events\\packingitempacked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.api\\controllers\\packinglistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|solutionrelative:packit.api\\controllers\\packinglistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\commands\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\commands\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared\\queries\\inmemoryquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|solutionrelative:packit.shared\\queries\\inmemoryquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared\\commands\\inmemorycommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|solutionrelative:packit.shared\\commands\\inmemorycommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared\\commands\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|solutionrelative:packit.shared\\commands\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\addpackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\addpackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\policies\\temperature\\lowtemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\policies\\temperature\\lowtemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\queries\\getpackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\queries\\getpackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\exceptions\\missinglocalizationweatherexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\exceptions\\missinglocalizationweatherexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\createpackinglistwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\createpackinglistwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\packitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\packitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\removepackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\removepackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\removepackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\removepackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\exceptions\\emptypackinglistidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\exceptions\\emptypackinglistidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\exceptions\\emptypackinglistitemnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\exceptions\\emptypackinglistitemnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\events\\packingitemremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\events\\packingitemremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\events\\packingitemadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\events\\packingitemadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\entities\\packinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\entities\\packinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\config\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\config\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\queries\\searchpackinglists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\queries\\searchpackinglists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\handlers\\createpackinglistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\handlers\\createpackinglistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\dto\\external\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\dto\\external\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\valueobjects\\localization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\valueobjects\\localization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\repositories\\postgrespackinglisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\repositories\\postgrespackinglisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\contexts\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\contexts\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\handlers\\addpackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\handlers\\addpackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59E76-70DD-4C08-B9F2-9F78F386EA20}|PackIT.Api\\PackIT.Api.csproj|solutionrelative:packit.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\exceptions\\packitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\exceptions\\packitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|solutionrelative:packit.shared\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared\\options\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|solutionrelative:packit.shared\\options\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|solutionrelative:packit.shared\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\queries\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\queries\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared\\services\\applnitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A907F803-9B99-47BA-9097-5BEAB0BC572B}|PackIT.Shared\\PackIT.Shared.csproj|solutionrelative:packit.shared\\services\\applnitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\queries\\handlers\\searchpackinglistshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\queries\\handlers\\searchpackinglistshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\queries\\handlers\\getpackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\queries\\handlers\\getpackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.infrastructure\\ef\\models\\localizationreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09304D6-2873-44CF-91AF-DA0D05CF2529}|PackIT.Infrastructure\\PackIT.Infrastructure.csproj|solutionrelative:packit.infrastructure\\ef\\models\\localizationreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\valueobjects\\traveldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\valueobjects\\traveldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\valueobjects\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\valueobjects\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\valueobjects\\packinglistname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\valueobjects\\packinglistname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\valueobjects\\packinglistid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\valueobjects\\packinglistid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\valueobjects\\packingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\valueobjects\\packingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\policies\\policydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\policies\\policydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\policies\\ipackingitemspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\policies\\ipackingitemspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\policies\\gender\\malegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\policies\\gender\\malegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\policies\\gender\\femalegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\policies\\gender\\femalegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\exceptions\\packingitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\exceptions\\packingitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\exceptions\\packingitemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\exceptions\\packingitemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\exceptions\\invalidtraveldaysexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\exceptions\\invalidtraveldaysexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\exceptions\\invalidtemperatureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\exceptions\\invalidtemperatureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\exceptions\\emptypackinglistnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\exceptions\\emptypackinglistnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.domain\\consts\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9271FED1-62B2-42BF-994D-32AB68748D84}|PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:packit.domain\\consts\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\services\\ipackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\services\\ipackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\exceptions\\packinglistnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\exceptions\\packinglistnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\exceptions\\packinglistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\exceptions\\packinglistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\dto\\packinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\dto\\packinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\dto\\packingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\dto\\packingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\dto\\localizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\dto\\localizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\handlers\\removepackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\handlers\\removepackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\handlers\\removepackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\handlers\\removepackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.application\\commands\\handlers\\packitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0017B6-AEFE-4ED2-B2E0-C4AC5C78BCB9}|PackIT.Application\\PackIT.Application.csproj|solutionrelative:packit.application\\commands\\handlers\\packitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\cleanarchitecture2\\packit\\packit.shared.abstractions\\queries\\iquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6165BBBD-49C6-4F13-B31F-4C60B7368F7E}|PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:packit.shared.abstractions\\queries\\iquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPostgres.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\AddPostgres.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\AddPostgres.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\AddPostgres.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\AddPostgres.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:41:56.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostgresPackingListReadService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:41:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\Extensions.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\Extensions.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\Extensions.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:41:45.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\StartUp.cs",
+              "RelativeDocumentMoniker": "PackIT.Api\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\StartUp.cs",
+              "RelativeToolTip": "PackIT.Api\\StartUp.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:04.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:21.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostgresOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:52.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PackIT.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\Program.cs",
+              "RelativeToolTip": "PackIT.Api\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:02.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WriteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:19.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DumbWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\Services\\DumbWeatherService.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\Services\\DumbWeatherService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\Services\\DumbWeatherService.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\Services\\DumbWeatherService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PackIT.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\appsettings.json",
+              "RelativeToolTip": "PackIT.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T12:40:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoggingCommandHandlerDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA9wBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:07.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:33:11.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPackingListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "RelativeToolTip": "PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:35.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasicPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "RelativeToolTip": "PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HighTemperaturePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "RelativeToolTip": "PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PackingListFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Factories\\PackingListFactory.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Factories\\PackingListFactory.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Factories\\PackingListFactory.cs",
+              "RelativeToolTip": "PackIT.Domain\\Factories\\PackingListFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPackingListFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Factories\\IPackingListFactory.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Factories\\IPackingListFactory.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Factories\\IPackingListFactory.cs",
+              "RelativeToolTip": "PackIT.Domain\\Factories\\IPackingListFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:13.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PackingItemPacked.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Events\\PackingItemPacked.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Events\\PackingItemPacked.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Events\\PackingItemPacked.cs",
+              "RelativeToolTip": "PackIT.Domain\\Events\\PackingItemPacked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PackingListsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\Controllers\\PackingListsController.cs",
+              "RelativeDocumentMoniker": "PackIT.Api\\Controllers\\PackingListsController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\Controllers\\PackingListsController.cs",
+              "RelativeToolTip": "PackIT.Api\\Controllers\\PackingListsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvywAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:43.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:16.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:14.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InMemoryQueryDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "RelativeToolTip": "PackIT.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:02.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InMemoryCommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "RelativeToolTip": "PackIT.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:28:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Commands\\Extensions.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared\\Commands\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Commands\\Extensions.cs",
+              "RelativeToolTip": "PackIT.Shared\\Commands\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:28:49.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddPackingItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\AddPackingItem.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\AddPackingItem.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\AddPackingItem.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\AddPackingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:26.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LowTemperaturePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "RelativeToolTip": "PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:25.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetPackingList.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Queries\\GetPackingList.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Queries\\GetPackingList.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Queries\\GetPackingList.cs",
+              "RelativeToolTip": "PackIT.Application\\Queries\\GetPackingList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:45.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MissingLocalizationWeatherException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "RelativeToolTip": "PackIT.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:38.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreatePackingListWithItems.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:27.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PackItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\PackItem.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\PackItem.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\PackItem.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\PackItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:28.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RemovePackingItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\RemovePackingItem.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\RemovePackingItem.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\RemovePackingItem.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\RemovePackingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:28.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RemovePackingList.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\RemovePackingList.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\RemovePackingList.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\RemovePackingList.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\RemovePackingList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:29.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmptyPackingListIdException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "RelativeToolTip": "PackIT.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:06.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmptyPackingListItemNameException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\EmptyPackingListItemNameException.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Exceptions\\EmptyPackingListItemNameException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\EmptyPackingListItemNameException.cs",
+              "RelativeToolTip": "PackIT.Domain\\Exceptions\\EmptyPackingListItemNameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:06.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PackingItemRemoved.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Events\\PackingItemRemoved.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Events\\PackingItemRemoved.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Events\\PackingItemRemoved.cs",
+              "RelativeToolTip": "PackIT.Domain\\Events\\PackingItemRemoved.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:02.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PackingItemAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Events\\PackingItemAdded.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Events\\PackingItemAdded.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Events\\PackingItemAdded.cs",
+              "RelativeToolTip": "PackIT.Domain\\Events\\PackingItemAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:59.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PackingList.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Entities\\PackingList.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Entities\\PackingList.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Entities\\PackingList.cs",
+              "RelativeToolTip": "PackIT.Domain\\Entities\\PackingList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:31:26.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SearchPackingLists.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Queries\\SearchPackingLists.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Queries\\SearchPackingLists.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Queries\\SearchPackingLists.cs",
+              "RelativeToolTip": "PackIT.Application\\Queries\\SearchPackingLists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:45.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReadConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:18.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreatePackingListWithItemsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:19.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Localization.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\Localization.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\ValueObjects\\Localization.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\Localization.cs",
+              "RelativeToolTip": "PackIT.Domain\\ValueObjects\\Localization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeatherDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\External\\WeatherDto.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\DTO\\External\\WeatherDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\External\\WeatherDto.cs",
+              "RelativeToolTip": "PackIT.Application\\DTO\\External\\WeatherDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:33.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PostgresPackingLisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Repositories\\PostgresPackingLisRepository.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Repositories\\PostgresPackingLisRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Repositories\\PostgresPackingLisRepository.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Repositories\\PostgresPackingLisRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:33:15.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WriteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:22.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddPackingItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:16.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "PackIT.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "PackIT.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PackItException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:25.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:22.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:19.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Queries\\Extensions.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared\\Queries\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Queries\\Extensions.cs",
+              "RelativeToolTip": "PackIT.Shared\\Queries\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:28:59.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Options\\Extensions.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared\\Options\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Options\\Extensions.cs",
+              "RelativeToolTip": "PackIT.Shared\\Options\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:28:58.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "PackIT.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:28:54.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Queries\\IQuery.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Queries\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Queries\\IQuery.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Queries\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:27.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Applnitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Services\\Applnitializer.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared\\Services\\Applnitializer.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared\\Services\\Applnitializer.cs",
+              "RelativeToolTip": "PackIT.Shared\\Services\\Applnitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:06.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SearchPackingListsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:33:09.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetPackingListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:33:00.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LocalizationReadModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "RelativeDocumentMoniker": "PackIT.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "RelativeToolTip": "PackIT.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:32:36.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TravelDays.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\TravelDays.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\ValueObjects\\TravelDays.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\TravelDays.cs",
+              "RelativeToolTip": "PackIT.Domain\\ValueObjects\\TravelDays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:48.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Temperature.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\Temperature.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\ValueObjects\\Temperature.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\Temperature.cs",
+              "RelativeToolTip": "PackIT.Domain\\ValueObjects\\Temperature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:46.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PackingListName.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\PackingListName.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\ValueObjects\\PackingListName.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\PackingListName.cs",
+              "RelativeToolTip": "PackIT.Domain\\ValueObjects\\PackingListName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:43.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PackingListId.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\PackingListId.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\ValueObjects\\PackingListId.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\PackingListId.cs",
+              "RelativeToolTip": "PackIT.Domain\\ValueObjects\\PackingListId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:41.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PackingItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\PackingItem.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\ValueObjects\\PackingItem.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\ValueObjects\\PackingItem.cs",
+              "RelativeToolTip": "PackIT.Domain\\ValueObjects\\PackingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:38.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PolicyData.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\PolicyData.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Policies\\PolicyData.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\PolicyData.cs",
+              "RelativeToolTip": "PackIT.Domain\\Policies\\PolicyData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:27.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IPackingItemsPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "RelativeToolTip": "PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:26.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MaleGenderPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "RelativeToolTip": "PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FemaleGenderPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "RelativeToolTip": "PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:22.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PackingItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "RelativeToolTip": "PackIT.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:10.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PackingItemAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "RelativeToolTip": "PackIT.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:10.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "InvalidTravelDaysException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "RelativeToolTip": "PackIT.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:09.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "InvalidTemperatureException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "RelativeToolTip": "PackIT.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:08.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "EmptyPackingListNameException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "RelativeToolTip": "PackIT.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:31:07.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Consts\\Gender.cs",
+              "RelativeDocumentMoniker": "PackIT.Domain\\Consts\\Gender.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Domain\\Consts\\Gender.cs",
+              "RelativeToolTip": "PackIT.Domain\\Consts\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:56.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Extensions.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Extensions.cs",
+              "RelativeToolTip": "PackIT.Application\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:49.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "PackIT.Application\\Services\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:48.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IPackingListReadService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Services\\IPackingListReadService.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Services\\IPackingListReadService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Services\\IPackingListReadService.cs",
+              "RelativeToolTip": "PackIT.Application\\Services\\IPackingListReadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:47.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PackingListNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "RelativeToolTip": "PackIT.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:42.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "PackingListAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "RelativeToolTip": "PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:40.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PackingListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\PackingListDto.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\DTO\\PackingListDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\PackingListDto.cs",
+              "RelativeToolTip": "PackIT.Application\\DTO\\PackingListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PackingItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\PackingItemDto.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\DTO\\PackingItemDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\PackingItemDto.cs",
+              "RelativeToolTip": "PackIT.Application\\DTO\\PackingItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:34.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LocalizationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\LocalizationDto.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\DTO\\LocalizationDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\DTO\\LocalizationDto.cs",
+              "RelativeToolTip": "PackIT.Application\\DTO\\LocalizationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:33.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "RemovePackingListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "RemovePackingItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:23.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PackItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "RelativeToolTip": "PackIT.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:31.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IQueryDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "RelativeDocumentMoniker": "PackIT.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\CleanArchitecture2\\PackIT\\PackIT.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "RelativeToolTip": "PackIT.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:29:30.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
