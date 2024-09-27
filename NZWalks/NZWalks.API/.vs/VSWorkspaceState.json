@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug\\net8.0",
+    "\\bin\\Release\\net8.0",
+    "\\Controllers",
+    "\\Models\\Domian"
+  ],
+  "SelectedNode": "\\Controllers\\StudentsController.cs",
+  "PreviewInSolutionExplorer": false
+}

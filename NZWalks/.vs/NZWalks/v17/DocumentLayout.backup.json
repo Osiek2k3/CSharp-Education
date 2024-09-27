@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7684C5-BF86-489C-B104-6F505DA6496C}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.ui\\nzwalks.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE7684C5-BF86-489C-B104-6F505DA6496C}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\nzwalks.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.api\\nzwalks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\nzwalks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827E174F-7567-40F9-8F22-9C1226AD0D10}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:00:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:50:04.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T12:05:06.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:51:55.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:16:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NZWalks.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+              "RelativeToolTip": "NZWalks.API\\NZWalks.API.csproj",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T07:24:12.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:15:59.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NZWalks.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+              "RelativeDocumentMoniker": "NZWalks.UI\\NZWalks.UI.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+              "RelativeToolTip": "NZWalks.UI\\NZWalks.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T07:24:49.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
