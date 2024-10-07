@@ -1,0 +1,2055 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\employeeindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\employeeindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\base\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\base\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\employeeindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\employeeindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\details.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\details.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\commands\\changeleaverequestaproval\\changeleaverequestapprovalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\commands\\changeleaverequestaproval\\changeleaverequestapprovalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\contracts\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\contracts\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leaverequests\\leaverequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leaverequests\\leaverequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestlist\\getleaverequestlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestlist\\getleaverequestlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\mappingprofiles\\leaveallocationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\mappingprofiles\\leaveallocationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestlist\\leaverequestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestlist\\leaverequestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\mappingprofiles\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\mappingprofiles\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\mappingprofiles\\leaverequestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\mappingprofiles\\leaverequestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leaverequests\\adminleaverequestviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leaverequests\\adminleaverequestviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\shared\\baseleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\shared\\baseleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestdetails\\leaverequestdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestdetails\\leaverequestdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestlist\\getleaverequestlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\queries\\getleaverequestlist\\getleaverequestlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.persistance\\repositories\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\repositories\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\handlers\\jwtauthorizationmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\handlers\\jwtauthorizationmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\clean.architecture.api\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|solutionrelative:clean.architecture.api\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\leavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\leavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaverequest\\commands\\createleaverequest\\createleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaverequest\\commands\\createleaverequest\\createleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\contracts\\identity\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\contracts\\identity\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\clean.architecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|solutionrelative:clean.architecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\shared\\backtolist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\shared\\backtolist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\shared\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leaverequests\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leaverequests\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\uiii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\uiii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\leaveallocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\leaveallocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\base\\clientsettings.nswag||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\base\\clientsettings.nswag||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\clean.architecture.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|solutionrelative:clean.architecture.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\clean.architecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|solutionrelative:clean.architecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\base\\clientsettings.nswag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\base\\clientsettings.nswag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\providers\\apiauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\providers\\apiauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\details.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\details.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\leavetypes\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\leavetypes\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leavetypes\\leavetypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leavetypes\\leavetypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leaverequests\\employeeleaverequestviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leaverequests\\employeeleaverequestviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leaveallocations\\viewleaveallocationsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leaveallocations\\viewleaveallocationsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leaveallocations\\leaveallocationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leaveallocations\\leaveallocationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leaveallocations\\updateleaveallocationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leaveallocations\\updateleaveallocationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\leaveallocations\\createleaveallocationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\leaveallocations\\createleaveallocationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\authentication\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\authentication\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\authentication\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\authentication\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\contracts\\ileavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\contracts\\ileavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\contracts\\ileaveallocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\contracts\\ileaveallocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\pages\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\pages\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\clean.architecture.api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|solutionrelative:clean.architecture.api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\contracts\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\contracts\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\clean.architecture.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|solutionrelative:clean.architecture.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\dbcontext\\hrleavemanagementidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\dbcontext\\hrleavemanagementidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\clean.architecture.api\\clean.architecture.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{623E7E35-47AD-4541-87C1-DB7C5353BCFF}|Clean.Architecture.Api\\Clean.Architecture.Api.csproj|solutionrelative:clean.architecture.api\\clean.architecture.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\cleanarchitecture.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\cleanarchitecture.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\services\\base\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\services\\base\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\uiii\\uiii.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{78ABC865-B5B7-4B3D-B0AA-D14A3C0146DB}|uiii\\uiii.csproj|solutionrelative:uiii\\uiii.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\queries\\getallleavetypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\queries\\getallleavetypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.persistance\\configurations\\leavetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\leavetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.persistance\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8E0BAF-63B2-44FE-96FF-F8CCBF634500}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8E0BAF-63B2-44FE-96FF-F8CCBF634500}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.persistance\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3F5029-559F-474A-8700-54790E95FE81}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8E0BAF-63B2-44FE-96FF-F8CCBF634500}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8E0BAF-63B2-44FE-96FF-F8CCBF634500}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.persistance\\migrations\\hrdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA6C12-CC5B-4943-BF1D-DC9147AFABA9}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\migrations\\hrdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|c:\\users\\jakub.malkowski\\onedrive - rossmann sdp\\pulpit\\solid cleanarchitecture\\cleanarchitecture\\cleanarchitecture.identity\\migrations\\20240930101816_initialidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505DF008-4DA7-491F-944B-7525290D325A}|CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj|solutionrelative:cleanarchitecture.identity\\migrations\\20240930101816_initialidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CancelLeaveRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:56:21.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CancelLeaveRequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:56:16.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeLeaveRequestApprovalCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestAproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestAproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestAproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestAproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:41:06.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Details.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\Details.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Details.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\Details.razor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:33:46.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Details.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\Details.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Details.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\Details.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:33:17.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveRequestVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveRequests\\LeaveRequestVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveRequests\\LeaveRequestVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveRequests\\LeaveRequestVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveRequests\\LeaveRequestVM.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:31:51.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:34:21.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeIndex.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\EmployeeIndex.razor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:35:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Program.cs",
+              "RelativeDocumentMoniker": "uiii\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Program.cs",
+              "RelativeToolTip": "uiii\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:17:49.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\Response.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\Base\\Response.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\Response.cs",
+              "RelativeToolTip": "uiii\\Services\\Base\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:54:40.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\LeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "uiii\\Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:57:53.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveAllocationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:16:37.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeaveRequestListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\LeaveRequestListDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\LeaveRequestListDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\LeaveRequestListDto.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\LeaveRequestListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:52:33.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Index.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\Index.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Index.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\Index.razor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:36:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Index.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\Index.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Index.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\Index.razor",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:35:53.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "uiii\\Contracts\\ILeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\ILeaveRequestService.cs",
+              "RelativeToolTip": "uiii\\Contracts\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:21:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\EmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\EmployeeVM.cs",
+              "RelativeToolTip": "uiii\\Models\\EmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:27:21.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetLeaveRequestListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQueryHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQueryHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:07:13.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveTypeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:17:21.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\MappingProfiles\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "uiii\\MappingProfiles\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\MappingProfiles\\MappingConfig.cs",
+              "RelativeToolTip": "uiii\\MappingProfiles\\MappingConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:24:29.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveRequestProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveRequestProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\MappingProfiles\\LeaveRequestProfile.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveRequestProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\MappingProfiles\\LeaveRequestProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:17:11.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseLeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:54:33.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LeaveRequestDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:53:45.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetLeaveRequestListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQuery.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQuery.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestList\\GetLeaveRequestListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:51:44.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminLeaveRequestViewVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveRequests\\AdminLeaveRequestViewVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveRequests\\AdminLeaveRequestViewVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveRequests\\AdminLeaveRequestViewVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveRequests\\AdminLeaveRequestViewVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:31:11.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Repositories\\LeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Repositories\\LeaveRequestRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:49:21.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JwtAuthorizationMessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Handlers\\JwtAuthorizationMessageHandler.cs",
+              "RelativeDocumentMoniker": "uiii\\Handlers\\JwtAuthorizationMessageHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Handlers\\JwtAuthorizationMessageHandler.cs",
+              "RelativeToolTip": "uiii\\Handlers\\JwtAuthorizationMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:46:33.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LeaveRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Controllers\\LeaveRequestsController.cs",
+              "RelativeDocumentMoniker": "Clean.Architecture.Api\\Controllers\\LeaveRequestsController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Controllers\\LeaveRequestsController.cs",
+              "RelativeToolTip": "Clean.Architecture.Api\\Controllers\\LeaveRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:44:01.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "uiii\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "uiii\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T11:14:52.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Identity\\IUserServices.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Contracts\\Identity\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Identity\\IUserServices.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Contracts\\Identity\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:01:19.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Index.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Index.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Index.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:43:26.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Services\\UserService.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:37:14.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Clean.Architecture.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Program.cs",
+              "RelativeToolTip": "Clean.Architecture.Api\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:53:15.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Services\\AuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\Services\\AuthService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:17:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\BaseHttpService.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\Base\\BaseHttpService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\BaseHttpService.cs",
+              "RelativeToolTip": "uiii\\Services\\Base\\BaseHttpService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvw8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:52:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateLeaveRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommandHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwD8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:07:34.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LeaveTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\LeaveTypeService.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\LeaveTypeService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\LeaveTypeService.cs",
+              "RelativeToolTip": "uiii\\Services\\LeaveTypeService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:58:40.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "RelativeToolTip": "uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T11:14:12.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "uiii\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T11:14:06.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "uiii\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\index.html",
+              "RelativeToolTip": "uiii\\wwwroot\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-30T08:37:42.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\_Imports.razor",
+              "RelativeDocumentMoniker": "uiii\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\_Imports.razor",
+              "RelativeToolTip": "uiii\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:17:27.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateLeaveAllocationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:39:50.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Index.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Index.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Index.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Index.razor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:43:54.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "uiii\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "uiii\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:04:55.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "uiii\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "uiii\\Shared\\NavMenu.razor.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T08:03:58.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BackToList.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\BackToList.razor",
+              "RelativeDocumentMoniker": "uiii\\Shared\\BackToList.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\BackToList.razor",
+              "RelativeToolTip": "uiii\\Shared\\BackToList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:01:08.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RedirectToLogin.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\RedirectToLogin.razor",
+              "RelativeDocumentMoniker": "uiii\\Shared\\RedirectToLogin.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\RedirectToLogin.razor",
+              "RelativeToolTip": "uiii\\Shared\\RedirectToLogin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:04:27.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\App.razor",
+              "RelativeDocumentMoniker": "uiii\\App.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\App.razor",
+              "RelativeToolTip": "uiii\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:16:28.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "uiii\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "uiii\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:01:34.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "uiii\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "uiii\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:03:16.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Register.razor",
+              "RelativeToolTip": "uiii\\Pages\\Register.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:47:42.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Create.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\Create.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Create.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\Create.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:32:05.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Create.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveRequests\\Create.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveRequests\\Create.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveRequests\\Create.razor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:32:36.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AgIAANkBAAAAAAAAAAAYwOoBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-30T12:06:47.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\ServiceClient.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\Base\\ServiceClient.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\ServiceClient.cs",
+              "RelativeToolTip": "uiii\\Services\\Base\\ServiceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:00:55.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "uiii\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:56:45.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LeaveAllocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\LeaveAllocationService.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\LeaveAllocationService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\LeaveAllocationService.cs",
+              "RelativeToolTip": "uiii\\Services\\LeaveAllocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:57:27.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\Client.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\Base\\Client.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\Client.cs",
+              "RelativeToolTip": "uiii\\Services\\Base\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:52:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "uiii.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\uiii.csproj",
+              "RelativeDocumentMoniker": "uiii\\uiii.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\uiii.csproj",
+              "RelativeToolTip": "uiii\\uiii.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T07:24:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "clientsettings.nswag",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\clientsettings.nswag",
+              "RelativeDocumentMoniker": "uiii\\Services\\Base\\clientsettings.nswag",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\clientsettings.nswag",
+              "RelativeToolTip": "uiii\\Services\\Base\\clientsettings.nswag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T12:03:34.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Clean.Architecture.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\appsettings.json",
+              "RelativeToolTip": "Clean.Architecture.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T09:50:51.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "clientsettings.nswag",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\clientsettings.nswag",
+              "RelativeDocumentMoniker": "uiii\\Services\\Base\\clientsettings.nswag",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\clientsettings.nswag",
+              "RelativeToolTip": "uiii\\Services\\Base\\clientsettings.nswag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T12:03:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Logout.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Logout.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Logout.razor",
+              "RelativeToolTip": "uiii\\Pages\\Logout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:47:15.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Login.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Login.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Login.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Login.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\Login.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:46:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Login.razor",
+              "RelativeToolTip": "uiii\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:46:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Clean.Architecture.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Clean.Architecture.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T08:34:39.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Create.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Create.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Create.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Create.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Create.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:38:33.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Create.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Create.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Create.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Create.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:36:57.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "uiii\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "uiii\\Shared\\MainLayout.razor.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T08:02:21.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ApiAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Providers\\ApiAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "uiii\\Providers\\ApiAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Providers\\ApiAuthenticationStateProvider.cs",
+              "RelativeToolTip": "uiii\\Providers\\ApiAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:50:16.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "uiii\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Properties\\launchSettings.json",
+              "RelativeToolTip": "uiii\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T07:49:27.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Index.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Index.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Index.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\Index.razor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:45:38.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Index.razor",
+              "RelativeToolTip": "uiii\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:45:14.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\FetchData.razor",
+              "RelativeToolTip": "uiii\\Pages\\FetchData.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:44:48.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Counter.razor",
+              "RelativeToolTip": "uiii\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T13:32:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Details.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Details.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Details.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Details.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Details.razor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:40:41.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Details.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Details.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Details.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Details.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:40:09.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LoginVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:27:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LeaveTypeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveTypes\\LeaveTypeVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveTypes\\LeaveTypeVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveTypes\\LeaveTypeVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveTypes\\LeaveTypeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:32:25.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "EmployeeLeaveRequestViewVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveRequests\\EmployeeLeaveRequestViewVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveRequests\\EmployeeLeaveRequestViewVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveRequests\\EmployeeLeaveRequestViewVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveRequests\\EmployeeLeaveRequestViewVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:31:32.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Edit.razor",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Edit.razor",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Edit.razor",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Edit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:41:11.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Edit.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Edit.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\LeaveTypes\\Edit.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\LeaveTypes\\Edit.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\LeaveTypes\\Edit.razor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:41:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ViewLeaveAllocationsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\ViewLeaveAllocationsVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveAllocations\\ViewLeaveAllocationsVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\ViewLeaveAllocationsVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveAllocations\\ViewLeaveAllocationsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:30:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "LeaveAllocationVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\LeaveAllocationVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveAllocations\\LeaveAllocationVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\LeaveAllocationVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveAllocations\\LeaveAllocationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:30:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UpdateLeaveAllocationVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\UpdateLeaveAllocationVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveAllocations\\UpdateLeaveAllocationVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\UpdateLeaveAllocationVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveAllocations\\UpdateLeaveAllocationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:30:22.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CreateLeaveAllocationVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\CreateLeaveAllocationVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\LeaveAllocations\\CreateLeaveAllocationVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\LeaveAllocations\\CreateLeaveAllocationVM.cs",
+              "RelativeToolTip": "uiii\\Models\\LeaveAllocations\\CreateLeaveAllocationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:29:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\Authentication\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\Authentication\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\Authentication\\RegisterVM.cs",
+              "RelativeToolTip": "uiii\\Models\\Authentication\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:29:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\Authentication\\LoginVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\Authentication\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\Authentication\\LoginVM.cs",
+              "RelativeToolTip": "uiii\\Models\\Authentication\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:28:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ILeaveTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\ILeaveTypeService.cs",
+              "RelativeDocumentMoniker": "uiii\\Contracts\\ILeaveTypeService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\ILeaveTypeService.cs",
+              "RelativeToolTip": "uiii\\Contracts\\ILeaveTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:22:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ILeaveAllocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\ILeaveAllocationService.cs",
+              "RelativeDocumentMoniker": "uiii\\Contracts\\ILeaveAllocationService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\ILeaveAllocationService.cs",
+              "RelativeToolTip": "uiii\\Contracts\\ILeaveAllocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:20:38.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "uiii\\Contracts\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Contracts\\IAuthenticationService.cs",
+              "RelativeToolTip": "uiii\\Contracts\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:20:03.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Register.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Register.razor.cs",
+              "RelativeDocumentMoniker": "uiii\\Pages\\Register.razor.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Pages\\Register.razor.cs",
+              "RelativeToolTip": "uiii\\Pages\\Register.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:48:09.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "LeaveTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Controllers\\LeaveTypesController.cs",
+              "RelativeDocumentMoniker": "Clean.Architecture.Api\\Controllers\\LeaveTypesController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Controllers\\LeaveTypesController.cs",
+              "RelativeToolTip": "Clean.Architecture.Api\\Controllers\\LeaveTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:36:55.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Identity\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Contracts\\Identity\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Identity\\IAuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Contracts\\Identity\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:59:23.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Clean.Architecture.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Clean.Architecture.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:10:38.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:47:11.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:45:58.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:47:42.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "HrLeaveManagementIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\DbContext\\HrLeaveManagementIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\DbContext\\HrLeaveManagementIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\DbContext\\HrLeaveManagementIdentityDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\DbContext\\HrLeaveManagementIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:45:07.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "20240930101816_InitialIdentityMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Migrations\\20240930101816_InitialIdentityMigration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\Migrations\\20240930101816_InitialIdentityMigration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Migrations\\20240930101816_InitialIdentityMigration.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\Migrations\\20240930101816_InitialIdentityMigration.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:18:17.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "IdentityServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\IdentityServicesRegistration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\IdentityServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\IdentityServicesRegistration.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\IdentityServicesRegistration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:48:53.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Clean.Architecture.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Clean.Architecture.Api.csproj",
+              "RelativeDocumentMoniker": "Clean.Architecture.Api\\Clean.Architecture.Api.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\Clean.Architecture.Api\\Clean.Architecture.Api.csproj",
+              "RelativeToolTip": "Clean.Architecture.Api\\Clean.Architecture.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T09:57:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CleanArchitecture.Identity.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "RelativeToolTip": "CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T09:48:45.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:04:56.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "CleanArchitecture.Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:16:30.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\JwtSettings.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:14:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\Employee.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\Employee.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\Employee.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:08:49.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "RegistrationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:06:53.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:04:52.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:03:03.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:02:19.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "weather.json",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\sample-data\\weather.json",
+              "RelativeDocumentMoniker": "uiii\\wwwroot\\sample-data\\weather.json",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\sample-data\\weather.json",
+              "RelativeToolTip": "uiii\\wwwroot\\sample-data\\weather.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T08:38:32.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "service-worker.js",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\service-worker.js",
+              "RelativeDocumentMoniker": "uiii\\wwwroot\\service-worker.js",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\wwwroot\\service-worker.js",
+              "RelativeToolTip": "uiii\\wwwroot\\service-worker.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-30T08:38:15.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "uiii\\Models\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Models\\RegisterVM.cs",
+              "RelativeToolTip": "uiii\\Models\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:28:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\IClient.cs",
+              "RelativeDocumentMoniker": "uiii\\Services\\Base\\IClient.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\Services\\Base\\IClient.cs",
+              "RelativeToolTip": "uiii\\Services\\Base\\IClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:54:19.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "uiii",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\uiii.csproj",
+              "RelativeDocumentMoniker": "uiii\\uiii.csproj",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\uiii\\uiii.csproj",
+              "RelativeToolTip": "uiii\\uiii.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T07:49:25.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "LeaveTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:22:37.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "LeaveTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Configurations\\LeaveTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\LeaveTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Configurations\\LeaveTypeConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\LeaveTypeConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:05:01.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "CreateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:38:51.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "CreateLeaveTypeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:49:14.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "CreateLeaveTypeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:49:16.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "HrDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\DatabaseContext\\HrDatabaseContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\DatabaseContext\\HrDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\DatabaseContext\\HrDatabaseContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\DatabaseContext\\HrDatabaseContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:04:37.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "LeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Repositories\\LeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Repositories\\LeaveTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Repositories\\LeaveTypeRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Repositories\\LeaveTypeRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvw8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:42:49.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveType.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\LeaveType.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveType.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:48:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:49:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "UpdateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:51:22.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "HrDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Jakub.Malkowski\\OneDrive - Rossmann SDP\\Pulpit\\SOLID cleanarchitecture\\CleanArchitecture\\CleanArchitecture.Persistance\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:49:32.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
