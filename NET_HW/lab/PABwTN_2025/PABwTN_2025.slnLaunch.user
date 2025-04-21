@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Nowy Profil",
+    "Projects": [
+      {
+        "Path": "Lab01_Framework\\Lab01_Framework.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Lab01_NET8\\Lab01_NET8.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Lab01_DBM\\Lab01_DBM.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "lab2\\Lab02_01\\Lab02_01.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
